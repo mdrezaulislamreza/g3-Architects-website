@@ -166,7 +166,14 @@ main{
     width: 150px;
 }
 
-
+/* footer section  */
+.footer-section{
+    background-color: #FFF4E7;
+    height: 80px;
+    margin: 0px 140px 50px 140px;
+    text-align: center;
+    padding-top: 20px;
+}
 
 
 
@@ -206,6 +213,16 @@ main{
 
     .facts-card-container .card{
         margin-top: 20px;
+    }
+
+    .footer-section{
+        background-color: #FFF4E7;
+        height: 100%;
+        width: 100%;
+        margin: 0 auto;
+      
+     
+       
     }
 }
 
